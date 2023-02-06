@@ -30,7 +30,7 @@
 
 ## Ferramentas:
 <div align="center">
-
+![powerbi](https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
